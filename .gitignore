@@ -216,3 +216,4 @@ gdrive.db
 .key
 .playwright-mcp/
 app.db
+.worktrees/
